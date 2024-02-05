@@ -93,4 +93,29 @@ const { title } = Astro.props;
       break-inside: avoid;
     }
   }
+
+  @page {
+    size: auto;
+    margin: 0;
+  }
+
+  @print {
+    @page :footer {
+      display: none;
+    }
+
+    @page :header {
+      display: none;
+    }
+  }
+  @media print {
+    @page {
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    body {
+      padding-top: 72px;
+      padding-bottom: 72px;
+    }
+  }
 </style>
