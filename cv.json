@@ -1,0 +1,221 @@
+{
+  "basics": {
+    "name": "Emir Tactuk Paulino",
+    "label": "Web Developer & QA Automator with more than 4 years of experience and Innovator.",
+    "image": "https://avatars.githubusercontent.com/u/33699141?v=4",
+    "email": "emirtp8@gmail.com",
+    "phone": "(849) 630-1636",
+    "url": "https://www.tatuninodev.com",
+    "summary": "+4 years of experience as QA automator and Web Developer. Currently working as RPA automator in BHD bank, I live in Dominican Republic. I have worked on different projects both Web and automation.",
+    "location": {
+      "address": "",
+      "postalCode": "CA 94115",
+      "city": "Dominican Republic",
+      "countryCode": "DR",
+      "region": "Santo Domingo"
+    },
+    "profiles": [
+      {
+        "network": "WebPage",
+        "username": "TatuninoDev12",
+        "url": "https://tatuninodev.com"
+      },
+      {
+        "network": "GitHub",
+        "username": "TatuninoDev12",
+        "url": "https://github.com/TatuninoDev12"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "emir-tactuk-paulino",
+        "url": "https://www.linkedin.com/in/emir-tactuk-paulino"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "BHD S.A",
+      "position": "SENIOR RPA DEVELOPER",
+      "url": "",
+      "startDate": "2019-02-01",
+      "endDate": "",
+      "summary": "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products. Participating in code reviews and providing constructive feedback to other developers. Automate the internal processes of the company, guarantee the quality of the products and the continuous integration of the systems and processes.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "FL Betances",
+      "position": "JUNIOR QA ANALYST",
+      "url": "",
+      "startDate": "2018-02-01",
+      "endDate": "2019-02-01",
+      "summary": "Participating in code reviews and providing constructive feedback to other developers. Analyse results and monitor usage in order to identify and troubleshoot automation framework issues and provide solutions for them.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "FL Betances",
+      "position": "WEB AND GAME DEVELOPER",
+      "url": "",
+      "startDate": "2016-02-01",
+      "endDate": "2018-02-01",
+      "summary": "Create interactive widgets (mini games) with educational purpose using HTML5, CSS3, Javascript and some libreries like PhaserJs. Developing and maintaining web applications using React.js and other related technologies. Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products. Implementing responsive design and ensuring Ebooks compatibility.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "BHD",
+      "position": "SENIOR RPA DEVELOPER",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Backend",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "React",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Angular",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Nodejs",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Javascript",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Docker",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Java",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "C#",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Python",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Pega Robotics Studio",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "Katalon Studio",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "T-Shirt 3D",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "isActive": true,
+      "description": "3d t-shirt creation project using threejs, where you can add a logo, texture and download the model. You can upload your own images for your logo or texture and you can also create them through AI.",
+      "highlights": ["React", "Express", "Tailwind", "OpenAI"],
+      "url": "https://threejs-peach.vercel.app/"
+    },
+    {
+      "name": "Car Rent",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "isActive": false,
+      "description": "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "highlights": ["React", "Nextjs", "Tailwind"],
+      "url": "https://github.com/TatuninoDev12/car_showcase"
+    },
+    {
+      "name": "Tatuninodev",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "isActive": true,
+      "description": "Website created with react, where you can visualize an animated and beautiful web portfolio using various technologies and API consumption.",
+      "highlights": ["React", "ThreeJs", "Sanity", "Tailwind"],
+      "url": "https://tatuninodev.com"
+    }
+  ]
+}
