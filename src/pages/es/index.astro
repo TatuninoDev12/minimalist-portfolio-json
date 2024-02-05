@@ -1,22 +1,22 @@
 ---
 import { changeLanguage } from "i18next";
-import Layout from "@/layouts/Layout.astro";
-import Education from "@/components/Sections/Education.astro";
-import Experience from "@/components/Sections/Experience.astro";
-import Projects from "@/components/Sections/Projects.astro";
-import Skills from "@/components/Sections/Skills.astro";
-import Hero from "@/components/Sections/Hero.astro";
-import About from "@/components/Sections/About.astro";
-import KeyboardManager from "@/components/Sections/KeyboardManager.astro";
-import { basics, projects, work, skills } from "@cv";
+import Layout from "../../layouts/Layout.astro";
+import Education from "../../components/Sections/Education.astro";
+import Experience from "../../components/Sections/Experience.astro";
+import Projects from "../../components/Sections/Projects.astro";
+import Skills from "../../components/Sections/Skills.astro";
+import Hero from "../../components/Sections/Hero.astro";
+import About from "../../components/Sections/About.astro";
+import KeyboardManager from "../../components/Sections/KeyboardManager.astro";
+import { basics, projects, work, skills } from "../../../cv-es.json";
 import { LanguageSelector } from "astro-i18next/components";
 
-changeLanguage("en");
+changeLanguage("es");
 
 const { name, label } = basics;
 ---
 
-<Layout title={`Portfolio of ${name} - ${label}`}>
+<Layout title={`Portafolio de ${name} - ${label}`}>
   <main>
     <LanguageSelector showFlag={true} class="languages" />
     <Hero basics={basics} />
@@ -26,7 +26,7 @@ const { name, label } = basics;
     <Projects projects={projects} />
     <Skills skills={skills} />
   </main>
-  <KeyboardManager language="en" />
+  <KeyboardManager language="es" />
 </Layout>
 
 <style>

@@ -1,12 +1,20 @@
 ---
 import Section from "../Section.astro";
-import { work } from "@cv";
+import { t } from "i18next";
+const { work } = Astro.props;
+type works = {
+  name: string;
+  startDate: string;
+  endDate: string;
+  position: string;
+  summary: string;
+};
 ---
 
-<Section title="Experience">
+<Section title={t("Experience")}>
   <ul>
     {
-      work.map(({ name, startDate, endDate, position, summary }) => {
+      work.map(({ name, startDate, endDate, position, summary }: works) => {
         const startYear = new Date(startDate).getFullYear();
         const endYear = endDate ? new Date(endDate).getFullYear() : "Present";
         const years = `${startYear} - ${endYear}`;

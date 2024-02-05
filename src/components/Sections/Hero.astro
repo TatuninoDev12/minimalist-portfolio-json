@@ -1,5 +1,5 @@
 ---
-import { basics } from "@cv";
+const { basics } = Astro.props;
 import Section from "@/components/Section.astro";
 import type { SocialIcon } from "@/types";
 import Mail from "@/icons/Mail.astro";
@@ -11,6 +11,11 @@ import WorldMap from "@/icons/WorldMap.astro";
 import WebPage from "@/icons/WorldMap.astro";
 
 const { name, label, image, location, profiles, phone, email } = basics;
+type Network = {
+  network: string;
+  url: string;
+  username: string;
+};
 const { city, region } = location;
 const SOCIAL_ICONS: SocialIcon = {
   GitHub,
@@ -18,7 +23,9 @@ const SOCIAL_ICONS: SocialIcon = {
   X,
   WebPage,
 };
-const linkedInfo = profiles.find(({ network }) => network === "LinkedIn");
+const linkedInfo = profiles.find(
+  ({ network }: Network) => network === "LinkedIn"
+);
 const linkedUrl = linkedInfo?.url;
 
 const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
@@ -62,7 +69,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
           )
         }
         {
-          profiles.map(({ network, url, username }) => {
+          profiles.map(({ network, url, username }: Network) => {
             const Icon = SOCIAL_ICONS[network];
             return (
               <a
@@ -106,6 +113,9 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
     font-weight: 500;
     font-size: 1.1rem;
     text-wrap: balance;
+  }
+  figure {
+    padding-right: 15px;
   }
   img {
     aspect-ratio: 1/1;

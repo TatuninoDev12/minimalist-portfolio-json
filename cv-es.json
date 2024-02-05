@@ -1,0 +1,173 @@
+{
+  "basics": {
+    "name": "Emir Tactuk Paulino",
+    "label": "Desarrollador Web y Automatizador QA con más de 4 años de experiencia e Innovador.",
+    "image": "https://avatars.githubusercontent.com/u/33699141?v=4",
+    "email": "emirtp8@gmail.com",
+    "phone": "(849) 630-1636",
+    "url": "https://www.tatuninodev.com",
+    "summary": "+4 años de experiencia como Automatizador QA y Desarrollador Web. Actualmente trabajo como automatizador RPA en el banco BHD, vivo en República Dominicana. He trabajado en diferentes proyectos tanto Web como de automatización.",
+    "location": {
+      "address": "",
+      "postalCode": "CA 94115",
+      "city": "República Dominicana",
+      "countryCode": "DR",
+      "region": "Santo Domingo"
+    },
+    "profiles": [
+      {
+        "network": "WebPage",
+        "username": "TatuninoDev12",
+        "url": "https://tatuninodev.com"
+      },
+      {
+        "network": "GitHub",
+        "username": "TatuninoDev12",
+        "url": "https://github.com/TatuninoDev12"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "emir-tactuk-paulino",
+        "url": "https://www.linkedin.com/in/emir-tactuk-paulino"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "BHD S.A.",
+      "position": "DESARROLLADOR RPA",
+      "url": "",
+      "startDate": "2019-02-01",
+      "endDate": "",
+      "summary": "Colaborar con equipos multifuncionales, incluidos diseñadores, gestores de productos y otros desarrolladores, para crear productos de alta calidad. Participar en revisiones de código y proporcionar comentarios constructivos a otros desarrolladores. Automatizar los procesos internos de la empresa, garantizar la calidad de los productos y la integración continua de los sistemas y procesos.",
+      "highlights": ["inició la empresa"]
+    },
+    {
+      "name": "FL Betances",
+      "position": "ANALISTA JUNIOR DE CALIDAD",
+      "url": "",
+      "startDate": "2018-02-01",
+      "endDate": "2019-02-01",
+      "summary": "Participar en revisiones de código y proporcionar comentarios constructivos a otros desarrolladores. Analizar los resultados y supervisar el uso para identificar y solucionar problemas del marco de automatización y ofrecer soluciones.",
+      "highlights": ["inició la empresa"]
+    },
+    {
+      "name": "Edu-Zone",
+      "position": "DESARROLLADOR WEB Y DE JUEGOS",
+      "url": "",
+      "startDate": "2016-02-01",
+      "endDate": "2018-02-01",
+      "summary": "Crear widgets interactivos (minijuegos) con fines educativos utilizando HTML5, CSS3, Javascript y algunas librerías como PhaserJs. Desarrollar y mantener aplicaciones web utilizando React.js y otras tecnologías relacionadas. Colaborar con equipos interfuncionales incluyendo diseñadores, gerentes de producto y otros desarrolladores para crear productos de alta calidad. Implementar diseño responsivo y asegurar compatibilidad con Ebooks.",
+      "highlights": ["inició la empresa"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad",
+      "url": "https://institución.com/",
+      "area": "Desarrollo de software",
+      "studyType": "Bachiller",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - SQL básico"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Desarrollo Web",
+      "level": "Maestro",
+      "keywords": ["HTML", "CSS", "javascript"]
+    },
+    {
+      "name": "Backend",
+      "level": "Maestro",
+      "keywords": ["HTML", "CSS", "javascript"]
+    },
+    {
+      "name": "React",
+      "level": "Maestro",
+      "keywords": ["HTML", "CSS", "javascript"]
+    },
+    {
+      "name": "Angular",
+      "level": "Maestro",
+      "keywords": ["HTML", "CSS", "javascript"]
+    },
+    {
+      "name": "Nodejs",
+      "level": "Maestro",
+      "keywords": ["HTML", "CSS", "javascript"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Maestro",
+      "keywords": ["HTML", "CSS", "javascript"]
+    },
+    {
+      "name": "Docker",
+      "level": "Maestro",
+      "keywords": ["HTML", "CSS", "javascript"]
+    },
+    {
+      "name": "Java",
+      "level": "Maestro",
+      "keywords": ["HTML", "CSS", "javascript"]
+    },
+    {
+      "name": "C#",
+      "level": "Maestro",
+      "keywords": ["HTML", "CSS", "javascript"]
+    },
+    {
+      "name": "Python",
+      "level": "Maestro",
+      "keywords": ["HTML", "CSS", "javascript"]
+    },
+    {
+      "name": "Pega Robotics Studio",
+      "level": "Maestro",
+      "keywords": ["HTML", "CSS", "javascript"]
+    },
+    {
+      "name": "Katalon Studio",
+      "level": "Maestro",
+      "keywords": ["HTML", "CSS", "javascript"]
+    }
+  ],
+  "references": [
+    {
+      "name": "fulano de tal",
+      "reference": "Referencia…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Camiseta 3D",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "isActive": true,
+      "description": "Proyecto de creación de camisetas 3d usando threejs, donde puedes agregar un logo, textura y descargar el modelo. ",
+      "highlights": ["React", "Express", "Tailwind", "OpenAI"],
+      "url": "https://tresjs-peach.vercel.app/"
+    },
+    {
+      "name": "Alquiler de coches",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "isActive": false,
+      "description": "Plataforma basada en web que permite a los usuarios buscar, reservar y administrar alquileres de automóviles de varios proveedores, brindando una solución conveniente y eficiente para las necesidades de transporte.",
+      "highlights": ["React", "Nextjs", "Tailwind"],
+      "url": "https://github.com/TatuninoDev12/car_showcase"
+    },
+    {
+      "name": "Tatuninodev",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "isActive": true,
+      "description": "Sitio web creado con reaccionar, donde podrás visualizar un portafolio web animado y hermoso utilizando diversas tecnologías y consumo de API.",
+      "highlights": ["React", "ThreeJs", "Sanity", "Tailwind"],
+      "url": "https://tatuninodev.com"
+    }
+  ]
+}

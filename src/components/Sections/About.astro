@@ -1,10 +1,11 @@
 ---
 import Section from "../Section.astro";
-import { basics } from "@cv";
+const { basics } = Astro.props;
 const { summary } = basics;
+import { t } from "i18next";
 ---
 
-<Section title="About">
+<Section title={t("About")}>
   <p>
     {summary}
   </p>

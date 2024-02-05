@@ -61,17 +61,6 @@
       "highlights": ["Started the company"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "BHD",
-      "position": "SENIOR RPA DEVELOPER",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": ["Awarded 'Volunteer of the Month'"]
-    }
-  ],
   "education": [
     {
       "institution": "University",
@@ -82,31 +71,6 @@
       "endDate": "2013-01-01",
       "score": "4.0",
       "courses": ["DB1101 - Basic SQL"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
     }
   ],
   "skills": [
@@ -169,18 +133,6 @@
       "name": "Katalon Studio",
       "level": "Master",
       "keywords": ["HTML", "CSS", "JavaScript"]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
     }
   ],
   "references": [
