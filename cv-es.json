@@ -143,22 +143,22 @@
   ],
   "projects": [
     {
+      "name": "Paquete de animacione para tailwind",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "isActive": true,
+      "description": "Paquete de node con animaciones para taildwindcss, permite añadir animaciones faciles y sencillas a cualquier projecto con tailwind solo agregando clases y una configuracion sencilla.",
+      "highlights": ["Javascript", "Astro", "Tailwind"],
+      "url": "https://twl.tatuninodev.com/"
+    },
+    {
       "name": "Camiseta 3D",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
       "isActive": true,
       "description": "Proyecto de creación de camisetas 3d usando threejs, donde puedes agregar un logo, textura y descargar el modelo. ",
       "highlights": ["React", "Express", "Tailwind", "OpenAI"],
-      "url": "https://tresjs-peach.vercel.app/"
-    },
-    {
-      "name": "Alquiler de coches",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "isActive": false,
-      "description": "Plataforma basada en web que permite a los usuarios buscar, reservar y administrar alquileres de automóviles de varios proveedores, brindando una solución conveniente y eficiente para las necesidades de transporte.",
-      "highlights": ["React", "Nextjs", "Tailwind"],
-      "url": "https://github.com/TatuninoDev12/car_showcase"
+      "url": "https://threejs-peach.vercel.app/"
     },
     {
       "name": "Tatuninodev",
@@ -168,6 +168,15 @@
       "description": "Sitio web creado con reaccionar, donde podrás visualizar un portafolio web animado y hermoso utilizando diversas tecnologías y consumo de API.",
       "highlights": ["React", "ThreeJs", "Sanity", "Tailwind"],
       "url": "https://tatuninodev.com"
+    },
+    {
+      "name": "Alquiler de coches",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "isActive": false,
+      "description": "Plataforma basada en web que permite a los usuarios buscar, reservar y administrar alquileres de automóviles de varios proveedores, brindando una solución conveniente y eficiente para las necesidades de transporte.",
+      "highlights": ["React", "Nextjs", "Tailwind"],
+      "url": "https://github.com/TatuninoDev12/car_showcase"
     }
   ]
 }

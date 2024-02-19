@@ -4,10 +4,11 @@ interface Props {
 }
 
 const { title } = Astro.props;
+import i18next, { t } from "i18next";
 ---
 
 <!doctype html>
-<html lang="es">
+<html lang={i18next.language}>
   <head>
     <meta charset="UTF-8" />
     <meta name="description" content="Astro description" />

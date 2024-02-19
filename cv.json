@@ -143,6 +143,15 @@
   ],
   "projects": [
     {
+      "name": "Animation package for tailwind",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "isActive": true,
+      "description": "Node package with animations for taildwindcss, allows to add easy and simple animations to any project with tailwind just adding classes and a simple configuration.",
+      "highlights": ["Javascript", "Astro", "Tailwind"],
+      "url": "https://twl.tatuninodev.com/"
+    },
+    {
       "name": "T-Shirt 3D",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
@@ -152,15 +161,6 @@
       "url": "https://threejs-peach.vercel.app/"
     },
     {
-      "name": "Car Rent",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "isActive": false,
-      "description": "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
-      "highlights": ["React", "Nextjs", "Tailwind"],
-      "url": "https://github.com/TatuninoDev12/car_showcase"
-    },
-    {
       "name": "Tatuninodev",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
@@ -168,6 +168,15 @@
       "description": "Website created with react, where you can visualize an animated and beautiful web portfolio using various technologies and API consumption.",
       "highlights": ["React", "ThreeJs", "Sanity", "Tailwind"],
       "url": "https://tatuninodev.com"
+    },
+    {
+      "name": "Car Rent",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "isActive": false,
+      "description": "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "highlights": ["React", "Nextjs", "Tailwind"],
+      "url": "https://github.com/TatuninoDev12/car_showcase"
     }
   ]
 }

@@ -1,7 +1,6 @@
 ---
 import { changeLanguage } from "i18next";
 import Layout from "@/layouts/Layout.astro";
-import Education from "@/components/Sections/Education.astro";
 import Experience from "@/components/Sections/Experience.astro";
 import Projects from "@/components/Sections/Projects.astro";
 import Skills from "@/components/Sections/Skills.astro";
@@ -22,7 +21,6 @@ const { name, label } = basics;
     <Hero basics={basics} />
     <About basics={basics} />
     <Experience work={work} />
-    <!-- <Education /> -->
     <Projects projects={projects} />
     <Skills skills={skills} />
   </main>

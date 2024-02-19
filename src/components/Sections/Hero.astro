@@ -69,7 +69,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
           )
         }
         {
-          profiles.map(({ network, url, username }: Network) => {
+          profiles.map(({ network, url }: Network) => {
             const Icon = SOCIAL_ICONS[network];
             return (
               <a
