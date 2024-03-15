@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Emir Tactuk Paulino",
-    "label": "Web Developer & QA Automator with more than 4 years of experience and Innovator.",
+    "label": "FullStack with more than 4 years of experience and Innovator.",
     "image": "https://avatars.githubusercontent.com/u/33699141?v=4",
     "email": "emirtp8@gmail.com",
     "phone": "(849) 630-1636",
     "url": "https://www.tatuninodev.com",
-    "summary": "+4 years of experience as QA automator and Web Developer. Currently working as RPA automator in BHD bank, I live in Dominican Republic. I have worked on different projects both Web and automation.",
+    "summary": "+4 years of experience as QA automator and FullStack, I live in Dominican Republic. I have worked on different projects both Web and automation.",
     "location": {
       "address": "",
       "postalCode": "CA 94115",
@@ -38,13 +38,13 @@
       "position": "SENIOR RPA DEVELOPER",
       "url": "",
       "startDate": "2019-02-01",
-      "endDate": "",
+      "endDate": "2024-03-04",
       "summary": "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products. Participating in code reviews and providing constructive feedback to other developers. Automate the internal processes of the company, guarantee the quality of the products and the continuous integration of the systems and processes.",
       "highlights": ["Started the company"]
     },
     {
       "name": "FL Betances",
-      "position": "JUNIOR QA ANALYST",
+      "position": "SENIOR QA ANALYST",
       "url": "",
       "startDate": "2018-02-01",
       "endDate": "2019-02-01",
@@ -53,7 +53,7 @@
     },
     {
       "name": "Edu-Zone",
-      "position": "WEB AND GAME DEVELOPER",
+      "position": "FULLSTACK AND GAME DEVELOPER",
       "url": "",
       "startDate": "2016-02-01",
       "endDate": "2018-02-01",

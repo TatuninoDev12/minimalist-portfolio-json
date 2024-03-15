@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Emir Tactuk Paulino",
-    "label": "Desarrollador Web y Automatizador QA con más de 4 años de experiencia e Innovador.",
+    "label": "FullStack con más de 4 años de experiencia e Innovador.",
     "image": "https://avatars.githubusercontent.com/u/33699141?v=4",
     "email": "emirtp8@gmail.com",
     "phone": "(849) 630-1636",
     "url": "https://www.tatuninodev.com",
-    "summary": "+4 años de experiencia como Automatizador QA y Desarrollador Web. Actualmente trabajo como automatizador RPA en el banco BHD, vivo en República Dominicana. He trabajado en diferentes proyectos tanto Web como de automatización.",
+    "summary": "+4 años de experiencia como Automatizador QA y FullStack, vivo en República Dominicana. He trabajado en diferentes proyectos tanto Web como de automatización.",
     "location": {
       "address": "",
       "postalCode": "CA 94115",
@@ -35,16 +35,16 @@
   "work": [
     {
       "name": "BHD S.A.",
-      "position": "DESARROLLADOR RPA",
+      "position": "DESARROLLADOR SENIOR RPA",
       "url": "",
       "startDate": "2019-02-01",
-      "endDate": "",
+      "endDate": "2024-03-04",
       "summary": "Colaborar con equipos multifuncionales, incluidos diseñadores, gestores de productos y otros desarrolladores, para crear productos de alta calidad. Participar en revisiones de código y proporcionar comentarios constructivos a otros desarrolladores. Automatizar los procesos internos de la empresa, garantizar la calidad de los productos y la integración continua de los sistemas y procesos.",
       "highlights": ["inició la empresa"]
     },
     {
       "name": "FL Betances",
-      "position": "ANALISTA JUNIOR DE CALIDAD",
+      "position": "ANALISTA SENIOR DE CALIDAD",
       "url": "",
       "startDate": "2018-02-01",
       "endDate": "2019-02-01",
@@ -53,7 +53,7 @@
     },
     {
       "name": "Edu-Zone",
-      "position": "DESARROLLADOR WEB Y DE JUEGOS",
+      "position": "FULLSTACK Y DE JUEGOS",
       "url": "",
       "startDate": "2016-02-01",
       "endDate": "2018-02-01",
