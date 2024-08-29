@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Emir Tactuk Paulino",
-    "label": "FullStack con más de 4 años de experiencia e Innovador.",
+    "label": "+4 años de experiencia como Automatizador QA y FullStack, vivo en República Dominicana. He trabajado en diferentes proyectos tanto Web como de automatización.",
     "image": "https://avatars.githubusercontent.com/u/33699141?v=4",
     "email": "emirtp8@gmail.com",
-    "phone": "(849) 630-1636",
+    "phone": "+18496301636",
     "url": "https://www.tatuninodev.com",
     "summary": "+4 años de experiencia como Automatizador QA y FullStack, vivo en República Dominicana. He trabajado en diferentes proyectos tanto Web como de automatización.",
     "location": {
@@ -39,7 +39,7 @@
       "url": "",
       "startDate": "2019-02-01",
       "endDate": "2024-03-04",
-      "summary": "Colaborar con equipos multifuncionales, incluidos diseñadores, gestores de productos y otros desarrolladores, para crear productos de alta calidad. Participar en revisiones de código y proporcionar comentarios constructivos a otros desarrolladores. Automatizar los procesos internos de la empresa, garantizar la calidad de los productos y la integración continua de los sistemas y procesos.",
+      "summary": "Colaborar con equipos multifuncionales, incluidos diseñadores, gestores de productos y otros desarrolladores, para crear productos de alta calidad. Participar en revisiones de código y proporcionar comentarios constructivos a otros desarrolladores. Automatizar los procesos internos de la empresa, garantizar la calidad de los productos y la integración continua de los sistemas y procesos. Utilice tecnologias como Pega Robotics Studio, Excel, C#, Python, Postman, Git, entre otros, para los diferentes projectos para eficientizar y mejorar la calidad de los entregables. Con excel y VBA para la conversion de archivos pdf a excel y envios de correos masivos através de macros.",
       "highlights": ["inició la empresa"]
     },
     {
@@ -48,7 +48,7 @@
       "url": "",
       "startDate": "2018-02-01",
       "endDate": "2019-02-01",
-      "summary": "Participar en revisiones de código y proporcionar comentarios constructivos a otros desarrolladores. Analizar los resultados y supervisar el uso para identificar y solucionar problemas del marco de automatización y ofrecer soluciones.",
+      "summary": "Participar en revisiones de código y proporcionar comentarios constructivos a otros desarrolladores. Analizar los resultados y supervisar el uso para identificar y solucionar problemas del marco de automatización y ofrecer soluciones. Utilice tecnologias como Katalon Studio, Java, Postman, Git, Katolon Studio, Java, Apium, para automatizar y crear pruebas de regresion en los diferentes projectos de la empresa y aplicativos.",
       "highlights": ["inició la empresa"]
     },
     {
@@ -61,84 +61,66 @@
       "highlights": ["inició la empresa"]
     }
   ],
-  "education": [
-    {
-      "institution": "Universidad",
-      "url": "https://institución.com/",
-      "area": "Desarrollo de software",
-      "studyType": "Bachiller",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - SQL básico"]
-    }
-  ],
   "skills": [
     {
-      "name": "Desarrollo Web",
-      "level": "Maestro",
-      "keywords": ["HTML", "CSS", "javascript"]
+      "name": "Desarrollo Web"
     },
     {
-      "name": "Backend",
-      "level": "Maestro",
-      "keywords": ["HTML", "CSS", "javascript"]
+      "name": "Express"
     },
     {
-      "name": "React",
-      "level": "Maestro",
-      "keywords": ["HTML", "CSS", "javascript"]
+      "name": "Nextjs"
     },
     {
-      "name": "Angular",
-      "level": "Maestro",
-      "keywords": ["HTML", "CSS", "javascript"]
+      "name": "React"
     },
     {
-      "name": "Nodejs",
-      "level": "Maestro",
-      "keywords": ["HTML", "CSS", "javascript"]
+      "name": "Angular"
     },
     {
-      "name": "JavaScript",
-      "level": "Maestro",
-      "keywords": ["HTML", "CSS", "javascript"]
+      "name": "Nodejs"
     },
     {
-      "name": "Docker",
-      "level": "Maestro",
-      "keywords": ["HTML", "CSS", "javascript"]
+      "name": "JavaScript"
     },
     {
-      "name": "Java",
-      "level": "Maestro",
-      "keywords": ["HTML", "CSS", "javascript"]
+      "name": "Docker"
     },
     {
-      "name": "C#",
-      "level": "Maestro",
-      "keywords": ["HTML", "CSS", "javascript"]
+      "name": "Java"
     },
     {
-      "name": "Python",
-      "level": "Maestro",
-      "keywords": ["HTML", "CSS", "javascript"]
+      "name": "C#"
     },
     {
-      "name": "Pega Robotics Studio",
-      "level": "Maestro",
-      "keywords": ["HTML", "CSS", "javascript"]
+      "name": "Python"
     },
     {
-      "name": "Katalon Studio",
-      "level": "Maestro",
-      "keywords": ["HTML", "CSS", "javascript"]
-    }
-  ],
-  "references": [
+      "name": "Postman"
+    },
     {
-      "name": "fulano de tal",
-      "reference": "Referencia…"
+      "name": "Git"
+    },
+    {
+      "name": "Gitlab"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Google Play"
+    },
+    {
+      "name": "Test Flight"
+    },
+    {
+      "name": "Visual Studio"
+    },
+    {
+      "name": "Pega Robotics Studio"
+    },
+    {
+      "name": "Katalon Studio"
     }
   ],
   "projects": [

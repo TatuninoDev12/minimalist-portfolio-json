@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Emir Tactuk Paulino",
-    "label": "FullStack with more than 4 years of experience and Innovator.",
+    "label": "+4 years of experience as QA automator and FullStack, I live in Dominican Republic. I have worked on different projects both Web and automation.",
     "image": "https://avatars.githubusercontent.com/u/33699141?v=4",
     "email": "emirtp8@gmail.com",
-    "phone": "(849) 630-1636",
+    "phone": "+18496301636",
     "url": "https://www.tatuninodev.com",
     "summary": "+4 years of experience as QA automator and FullStack, I live in Dominican Republic. I have worked on different projects both Web and automation.",
     "location": {
@@ -39,7 +39,7 @@
       "url": "",
       "startDate": "2019-02-01",
       "endDate": "2024-03-04",
-      "summary": "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products. Participating in code reviews and providing constructive feedback to other developers. Automate the internal processes of the company, guarantee the quality of the products and the continuous integration of the systems and processes.",
+      "summary": "Collaborate with cross-functional teams, including designers, product managers and other developers, to create high quality products. Participate in code reviews and provide constructive feedback to other developers. Automate internal company processes, ensure product quality and continuous integration of systems and processes. Use technologies such as Pega Robotics Studio, Excel, C#, Python, Postman, Git, among others, for different projects to streamline and improve the quality of deliverables. With excel and VBA for the conversion of pdf files to excel and sending mass mailings through macros.",
       "highlights": ["Started the company"]
     },
     {
@@ -48,7 +48,7 @@
       "url": "",
       "startDate": "2018-02-01",
       "endDate": "2019-02-01",
-      "summary": "Participating in code reviews and providing constructive feedback to other developers. Analyse results and monitor usage in order to identify and troubleshoot automation framework issues and provide solutions for them.",
+      "summary": "Participate in code reviews and provide constructive feedback to other developers. Analyze results and monitor usage to identify and troubleshoot automation framework issues and provide solutions. Use technologies such as Katalon Studio, Java, Postman, Git, Katolon Studio, Java, Apium, to automate and create regression tests in different company projects and applications.",
       "highlights": ["Started the company"]
     },
     {
@@ -75,70 +75,64 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "JavaScript"]
+      "name": "Web Development"
     },
     {
-      "name": "Backend",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "JavaScript"]
+      "name": "Express"
     },
     {
-      "name": "React",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "JavaScript"]
+      "name": "Nextjs"
     },
     {
-      "name": "Angular",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "JavaScript"]
+      "name": "React"
     },
     {
-      "name": "Nodejs",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "JavaScript"]
+      "name": "Angular"
     },
     {
-      "name": "Javascript",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "JavaScript"]
+      "name": "Nodejs"
     },
     {
-      "name": "Docker",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "JavaScript"]
+      "name": "JavaScript"
     },
     {
-      "name": "Java",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "JavaScript"]
+      "name": "Docker"
     },
     {
-      "name": "C#",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "JavaScript"]
+      "name": "Java"
     },
     {
-      "name": "Python",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "JavaScript"]
+      "name": "C#"
     },
     {
-      "name": "Pega Robotics Studio",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "JavaScript"]
+      "name": "Python"
     },
     {
-      "name": "Katalon Studio",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "JavaScript"]
-    }
-  ],
-  "references": [
+      "name": "Postman"
+    },
     {
-      "name": "Jane Doe",
-      "reference": "Reference…"
+      "name": "Git"
+    },
+    {
+      "name": "Gitlab"
+    },
+    {
+      "name": "Linux"
+    },
+    {
+      "name": "Google Play"
+    },
+    {
+      "name": "Test Flight"
+    },
+    {
+      "name": "Visual Studio"
+    },
+    {
+      "name": "Pega Robotics Studio"
+    },
+    {
+      "name": "Katalon Studio"
     }
   ],
   "projects": [

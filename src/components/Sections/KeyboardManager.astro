@@ -82,7 +82,7 @@ const profilesInfo = profiles.map(({ network, url }) => {
 
 <footer id="normal-footer" class="no-print">
   <Trans i18nKey="keyb">
-    Pulsa <kbd>Cmd</kbd> + <kbd>K</kbd> para abrir la paleta de comandos.
+    Pulsa <kbd data-ctrl></kbd> + <kbd>K</kbd> para abrir la paleta de comandos.
   </Trans>
 </footer>
 
@@ -109,10 +109,15 @@ const profilesInfo = profiles.map(({ network, url }) => {
 <ninja-keys
   data-info={JSON.stringify(profilesInfo)}
   placeholder={t("keyPlaceholder")}
-  hideBreadcrumbs></ninja-keys>
+  hideBreadcrumbs
+>
+</ninja-keys>
 
 <script>
   import "ninja-keys";
+
+  document.querySelectorAll("[data-ctrl]")[0].textContent =
+    window.navigator.platform.includes("Mac") ? "Cmd" : "Ctrl";
 
   interface Info {
     id: string;
